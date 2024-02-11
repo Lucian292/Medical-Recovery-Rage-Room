@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ecf6576554c5253469d616973675069f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bowlForTeleport: {fileID: 919132149155446097, guid: dcc71c5f31cf020499007f163b7a6e19, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

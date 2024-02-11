@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ddf5d48f04df92140acf2b66ed7366c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pillar: {fileID: 8600485161987960788, guid: 60d10ecad19d70a4590f3737187d5d1e, type: 3}
+  - parent: {instanceID: 0}
+  - levelManager: {instanceID: 0}
+  - CurentLevel: {instanceID: 0}
+  - CurentTask: {instanceID: 0}
+  - CurentActions: {instanceID: 0}
+  - objectDestroyer: {instanceID: 0}
+  - movementRecognizer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
